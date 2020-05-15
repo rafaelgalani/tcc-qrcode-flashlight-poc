@@ -1,0 +1,13 @@
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\bin\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.deps.json
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\bin\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.dll
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\bin\Debug\netstandard2.0\ref\tcc-qrcode-flashlight-poc.dll
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\bin\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.pdb
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.dll
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\ref\tcc-qrcode-flashlight-poc.dll
+C:\Users\Rafael\source\repos\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\tcc-qrcode-flashlight-poc\obj\Debug\netstandard2.0\tcc-qrcode-flashlight-poc.pdb
